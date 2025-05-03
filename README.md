@@ -27,4 +27,4 @@ Sistem pelaporan sederhana masalah IT untuk area kantor. Aplikasi ini memudahkan
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/panjisetiadi/ticketing-system.git
+   git clone https://github.com/panjisetiadi12/ticketing-system.git
